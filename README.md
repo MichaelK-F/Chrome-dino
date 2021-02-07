@@ -1,2 +1,10 @@
-# Chrome-dino
-This repository contains four copies of the chrome dino game -   index - standard version.html :has the standard version of chrome dino.  index - bot version.html :has the bot version (runs by itself, but you can intervene by pressing up/down keys and space bar) of chrome dino.  index - hacked version.html :the dino goes through everything and nothing effects it.  index - hacked version + bot version.html :the dino goes through everything and nothing effects it, and runs by itself, but you can intervene by pressing up/down keys and space bar
+Chrome dino
+
+index - standard version.html :has the standard version of chrome dino.
+
+index - bot version.html :has the bot version (runs by itself, but you can intervine by pressing up/down keys and space bar) of chrome dino.
+
+index - hacked version.html :the dino goes through everything and nothing effeccts it.
+
+index - hacked version + bot version.html :the dino goes through everything and nothing effeccts it, and runs by itself, but you can intervine by pressing up/down keys and space bar
+
