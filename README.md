@@ -1,4 +1,4 @@
-Chrome dino
+Chrome dino 1.0
 
 index - standard version.html - has the standard version of chrome dino.
 
